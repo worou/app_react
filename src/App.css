@@ -1,0 +1,12 @@
+.active{
+  background-color: rgb(78, 78, 248);
+  font-size: large;
+  font-weight: bolder;
+}
+
+footer{
+  position: fixed;
+  bottom: 0;
+  margin-bottom: -20px;
+  width: 82%;
+}
